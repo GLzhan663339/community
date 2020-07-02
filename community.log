@@ -1,0 +1,11 @@
+2020-06-29 15:37:43.441  INFO 7628 --- [main] c.nowcoder.community.community.Logtest   : Starting Logtest on DESKTOP-U6N1D0F with PID 7628 (started by ZGL in D:\3JAVAproject\community)
+2020-06-29 15:37:43.441 DEBUG 7628 --- [main] c.nowcoder.community.community.Logtest   : Running with Spring Boot v2.1.15.RELEASE, Spring v5.1.16.RELEASE
+2020-06-29 15:37:43.441  INFO 7628 --- [main] c.nowcoder.community.community.Logtest   : No active profile set, falling back to default profiles: default
+2020-06-29 15:37:48.823  INFO 7628 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-29 15:37:49.028  INFO 7628 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-06-29 15:37:49.784  INFO 7628 --- [main] c.nowcoder.community.community.Logtest   : Started Logtest in 7.044 seconds (JVM running for 8.431)
+2020-06-29 15:37:50.511 DEBUG 7628 --- [main] c.nowcoder.community.community.Logtest   : debug log
+2020-06-29 15:37:50.511  INFO 7628 --- [main] c.nowcoder.community.community.Logtest   : info log
+2020-06-29 15:37:50.512  WARN 7628 --- [main] c.nowcoder.community.community.Logtest   : warn log
+2020-06-29 15:37:50.512 ERROR 7628 --- [main] c.nowcoder.community.community.Logtest   : error log
+2020-06-29 15:37:50.528  INFO 7628 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'

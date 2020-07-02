@@ -1,0 +1,7 @@
+2020-06-29 16:34:33,497 INFO [main] c.n.c.c.Logtest [StartupInfoLogger.java:50] Starting Logtest on DESKTOP-U6N1D0F with PID 17968 (started by ZGL in D:\3JAVAproject\community)
+2020-06-29 16:34:33,528 INFO [main] c.n.c.c.Logtest [SpringApplication.java:648] No active profile set, falling back to default profiles: default
+2020-06-29 16:34:38,643 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-29 16:34:38,883 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:58] Adding welcome page template: index
+2020-06-29 16:34:39,652 INFO [main] c.n.c.c.Logtest [StartupInfoLogger.java:59] Started Logtest in 7.125 seconds (JVM running for 8.559)
+2020-06-29 16:34:40,510 INFO [main] c.n.c.c.Logtest [Logtest.java:25] info log
+2020-06-29 16:34:40,535 INFO [Thread-2] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
